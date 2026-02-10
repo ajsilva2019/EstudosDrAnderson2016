@@ -1,2 +1,2 @@
-# Imagens-
-Esta pasta contém as fotos dos deputados federais.
+# logoPartidos
+Logos dos partidos politicos brasileiros
