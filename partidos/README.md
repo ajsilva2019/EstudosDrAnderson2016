@@ -1,1 +1,2 @@
-Logos dos partidos
+# logoPartidos
+Logos dos partidos politicos brasileiros
